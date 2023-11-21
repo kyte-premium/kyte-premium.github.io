@@ -3,7 +3,7 @@ layout: post
 title:  더 페닌슐라 방콕
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 date:   2020-11-11 15:01:35 +0300
-image:  '/images/the-peninsula-bangkok/PBK_Lifestyle_Pool.jpg'
+image:  '/images/the-peninsula-bangkok/lifestyle-pool.jpg'
 //video_embed: https://www.youtube.com/watch?v=rJjRw0sUJR8
 tags:   [lifestyle, rest, notes]
 ---
