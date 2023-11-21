@@ -39,7 +39,8 @@ layout: default
           {% endif %}
   
           <h1 class="post__title">{{ page.title | escape }}</h1>
-  
+
+          <!--
           <div class="post__meta">
             <a href="{{site.baseurl}}/about/" class="post__author-image">
               <img class="lazy" data-src="{{site.author.author__avatar}}" alt="{{site.author.author__name}}">
@@ -50,7 +51,7 @@ layout: default
               <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
             </div>
           </div>
-  
+          -->
         </div>
       </div>
     </div>
@@ -66,6 +67,7 @@ layout: default
       {{ content }}
     </div>
 
+    <!--
     <div class="post__share">
       <ul class="share__list list-reset">
         <li class="share__item">
@@ -90,7 +92,7 @@ layout: default
         </li>
       </ul>
     </div>
-
+    -->
 
   </article>
 </div>
