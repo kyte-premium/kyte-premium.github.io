@@ -8,7 +8,6 @@
     transform: translateY(-3px);
 
     .article__title a {
-      text-decoration: underline;
       text-decoration-color: var(--link-color-hover);
       text-decoration-thickness: 2px;
     }
@@ -101,7 +100,6 @@
   font-size: 24px;
 
   a {
-    text-decoration: underline;
     text-decoration-color: transparent;
     text-decoration-thickness: 2px;
 
@@ -115,4 +113,11 @@
   margin-bottom: 0;
   font-size: 16px;
   color: var(--text-alt-color);
+}
+
+.article__price {
+  margin-top: 8px;
+  text-align: right;
+  font-weight: 900;
+  font-size: 20px;
 }
