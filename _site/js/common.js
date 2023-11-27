@@ -10,8 +10,8 @@ document.addEventListener("DOMContentLoaded", function() {
     searchInput = document.querySelector(".search__text"),
     search = document.querySelector(".search"),
     searchBox = document.querySelector(".search__box"),
-    toggleTheme = document.querySelector(".toggle-theme"),
-    btnScrollToTop = document.querySelector(".top");
+    toggleTheme = document.querySelector(".toggle-theme");
+    //btnScrollToTop = document.querySelector(".top");
 
 
   /* =======================================================
@@ -141,7 +141,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
   /* =======================
   // Scroll Top Button
-  ======================= */
+  =======================
   btnScrollToTop.addEventListener("click", function () {
     if (window.scrollY != 0) {
       window.scrollTo({
@@ -151,5 +151,6 @@ document.addEventListener("DOMContentLoaded", function() {
       })
     }
   });
+  */
 
 });

@@ -3,7 +3,6 @@ layout: post
 title: 킴튼 말라이 방콕
 sub-title: Kimpton Maa-lai Bangkok
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...
-price: 999,000원~
 date:   2020-11-12 15:01:35 +0300
 image:  '/images/kimpton-maa-lai-bangkok/garden-view.jpg'
 tags: [호텔, 방콕]

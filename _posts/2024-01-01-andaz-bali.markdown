@@ -3,7 +3,6 @@ layout: post
 title: 안다즈 발리
 sub-title: Andaz Bali
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...
-price: 999,000원~
 date:   2020-11-14 15:01:35 +0300
 image:  '/images/andaz-bali/aerials-main-pool.jpg'
 tags: [리조트, 발리]

@@ -3,7 +3,6 @@ layout: post
 title: 파크 하얏트 부산
 sub-title: Park Hyatt Busan
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...
-price: 999,000원~
 date:   2020-11-10 15:01:35 +0300
 image:  '/images/park-hyatt-busan/2795ec0f.jpg'
 tags:   [호텔, 부산]

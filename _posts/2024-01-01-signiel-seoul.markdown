@@ -3,7 +3,6 @@ layout: post
 title:  시그니엘 서울
 sub-title: Signiel Seoul
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...
-price: 999,000원~
 date:   2020-11-08 15:01:35 +0300
 image:  '/images/signiel-seoul/c24bcb0e.jpg'
 tags:   [호텔, 서울]
