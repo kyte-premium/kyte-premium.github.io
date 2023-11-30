@@ -2,11 +2,21 @@
 layout: post
 title: 안다즈 발리
 sub-title: Andaz Bali
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor...
+description: 사누르 해변에 위치한 이 럭셔리한 리조트는 발리식 건축을 현대적으로 해석하여 전통과 새로움이 적절하게 조화를 이룬 특별한 경험을 선사합니다.
 date:   2020-11-14 15:01:35 +0300
 image:  '/images/andaz-bali/aerials-main-pool.jpg'
 tags: [리조트, 발리]
 ---
+
+**카이트 프리미엄이란?**
+
+“단 하루여도 특별하게 머물 수 있도록”
+
+객실 업그레이드∙웰컴 이벤트∙얼리 체크인∙레이트 체크아웃∙조식 등
+최상의 프리미엄 혜택을 제공합니다
+
+![Lobby]({{site.baseurl}}/images/andaz-bali/lobby.jpg#wide)
+
 ### 발리의 에너지로 영혼을 채울 시간
 사누르 해변에 위치한 이 럭셔리한 리조트는 발리식 건축을 현대적으로 해석하여 전통과 새로움이 적절하게 조화를 이룬 특별한 경험을 선사합니다. 눈길이 닿는 곳마다 짙은 녹음이 펼쳐지는 정원, 그 속에 숨겨진 샘물 같은 라군 풀, 멀리 보이는 푸른 바다까지 사누르 그 자체를 녹여낸 듯한 안다즈 발리에서 진정한 휴식을 즐겨보세요.
 
