@@ -5,8 +5,8 @@
         <description>Menca personal blogging theme for Jekyll</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Nov 2023 09:46:05 +0900</pubDate>
-        <lastBuildDate>Thu, 30 Nov 2023 09:46:05 +0900</lastBuildDate>
+        <pubDate>Thu, 30 Nov 2023 10:04:22 +0900</pubDate>
+        <lastBuildDate>Thu, 30 Nov 2023 10:04:22 +0900</lastBuildDate>
         <generator>Jekyll v3.9.1</generator>
         
             <item>
@@ -18,12 +18,12 @@
 &lt;p&gt;객실 업그레이드∙웰컴 이벤트∙얼리 체크인∙레이트 체크아웃∙조식 등
 최상의 프리미엄 혜택을 제공합니다&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/andaz-bali/lobby.jpg#wide&quot; alt=&quot;Lobby&quot; /&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;h3 id=&quot;발리의-에너지로-영혼을-채울-시간&quot;&gt;발리의 에너지로 영혼을 채울 시간&lt;/h3&gt;
 &lt;p&gt;사누르 해변에 위치한 이 럭셔리한 리조트는 발리식 건축을 현대적으로 해석하여 전통과 새로움이 적절하게 조화를 이룬 특별한 경험을 선사합니다. 눈길이 닿는 곳마다 짙은 녹음이 펼쳐지는 정원, 그 속에 숨겨진 샘물 같은 라군 풀, 멀리 보이는 푸른 바다까지 사누르 그 자체를 녹여낸 듯한 안다즈 발리에서 진정한 휴식을 즐겨보세요.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;안다즈 발리의 세 가지 포인트&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;안다즈-발리의-세-가지-포인트&quot;&gt;안다즈 발리의 세 가지 포인트&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;번잡한 도심을 벗어나 누리는 고요한 휴가&lt;/li&gt;
   &lt;li&gt;사랑하는 사람과 꿈꾸던 로맨틱한 시간&lt;/li&gt;
