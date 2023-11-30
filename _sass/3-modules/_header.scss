@@ -28,7 +28,7 @@
   transition: color .25s ease;
 
   &:hover {
-    color: var(--brand-color);
+    color: var(--blue100);
   }
 }
 
@@ -76,7 +76,7 @@
           transition: color .25s ease;
 
           &:hover {
-            color: var(--brand-color);
+            color: var(--blue100);
           }
         }
       }
@@ -97,8 +97,8 @@
     font-size: 24px;
     line-height: 1;
     border-radius: 50%;
-    color: var(--dark-blue);
-    background: var(--light-blue);
+    color: var(--dark-blue100);
+    background: var(--light-blue100);
     cursor: pointer;
 
     &:hover {
@@ -141,7 +141,7 @@
       font-size: 36px;
       font-weight: 700;
       letter-spacing: -1px;
-      color: var(--dark-blue);
+      color: var(--dark-blue100);
     }
   }
 }
@@ -168,7 +168,7 @@
       transition: color .25s ease;
 
       &:hover {
-        color: var(--brand-color);
+        color: var(--blue100);
       }
     }
   }
@@ -176,7 +176,7 @@
 
 .nav-button {
   font-size: 21px;
-  color: var(--dark-blue);
+  color: var(--dark-blue100);
   cursor: pointer;
 
   .icon__menu {
@@ -189,7 +189,7 @@
     transition: color .25s ease;
 
     &:hover {
-      color: var(--brand-color);
+      color: var(--blue100);
     }
   }
 
@@ -226,10 +226,10 @@
   position: absolute;
   font-size: 20px;
   transition: color .25s ease;
-  color: var(--dark-blue);
+  color: var(--dark-blue100);
 
   &:hover {
-    color: var(--brand-color);
+    color: var(--blue100);
   }
 }
 

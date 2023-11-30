@@ -7,7 +7,7 @@ body {
   font-size: $base-font-size;
   line-height: $base-line-height;
   overflow-x: hidden;
-  color: var(--text-color);
+  color: var(--black87);
   background-color: var(--white);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -19,7 +19,7 @@ body {
 
 *::selection {
   color: var(--white);
-  background-color: var(--brand-color);
+  background-color: var(--blue100);
 }
 
 h1,
@@ -32,7 +32,7 @@ h6 {
   font-weight: $heading-font-weight;
   line-height: $heading-line-height;
   letter-spacing: $heading-letter-spacing;
-  color: var(--dark-blue);
+  color: var(--dark-blue100);
 }
 
 h1 {
@@ -60,17 +60,13 @@ h6 {
 }
 
 blockquote {
-  position: relative;
-  margin: 40px 0;
-  padding-left: 26px;
-  font-size: 24px;
-  line-height: 1.7;
-  font-weight: 900;
-  border-left: 4px solid var(--brand-color);
-  color: var(--dark-blue);
+  background-color: var(--black04);
+  border-radius: 8px;
+  padding: 16px;
+  font-size: 16px;
 
   p {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
   }
 
   cite {
@@ -79,7 +75,7 @@ blockquote {
     font-size: 14px;
     font-weight: 700;
     font-style: normal;
-    color: var(--dark-blue);
+    color: var(--dark-blue100);
 
   }
 
@@ -89,14 +85,31 @@ blockquote {
 }
 
 pre {
-  overflow: auto;
-  padding: 15px;
-  margin-bottom: 0;
-  font-size: 14px;
-  white-space: pre-wrap;
-  word-wrap: break-word;
-  word-break: break-all;
-  color: var(--dark-blue);
+  text-align: center;
+}
+
+pre:before {
+  font-family: $base-font-family;
+  content: "“";
+  margin: 0px auto 8px;
+  color: var(--black12);
+  display: block;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+pre:after {
+  font-family: $base-font-family;
+  content: "”";
+  margin: 36px auto 24px;
+  color: var(--black12);
+  display: block;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+code {
+  font-style: italic;
 }
 
 img,
@@ -117,16 +130,16 @@ img,
     font-style: normal;
     font-weight: normal;
     text-align: center;
-    color: var(--dark-blue);
+    color: var(--dark-blue100);
   
     a {
       font-weight: 500;
-      border-bottom: 1px solid var(--light-blue);
+      border-bottom: 1px solid var(--light-blue100);
       transition: $global-transition;
 
       &:hover {
-        color: var(--dark-blue);
-        border-color: var(--dark-blue);
+        color: var(--dark-blue100);
+        border-color: var(--dark-blue100);
       }
     }
   
@@ -138,20 +151,20 @@ img,
 
 a {
   text-decoration: none;
-  color: var(--dark-blue);
+  color: var(--dark-blue100);
   transition: $global-transition;
 
   &:hover {
-    color: var(--dark-blue);
+    color: var(--dark-blue100);
   }
 }
 
 hr {
   width: 100%;
-  height: 1px;
+  height: 8px;
   margin: 48px 0;
   border: 0;
-  background: var(--light-blue);
+  background: var(--black04);
 }
 
 .table-container {
@@ -165,23 +178,23 @@ table {
   color: var(--dark);
   width: 100%;
   border-width: 1px;
-  border-color: var(--light-blue);
+  border-color: var(--light-blue100);
   border-collapse: collapse;
-  color: var(--dark-blue);
+  color: var(--dark-blue100);
 }
 
 table th {
   padding: 10px;
   font-size: 16px;
   text-align: left;
-  border: 1px solid var(--light-gray);
-  color: var(--dark-blue);
+  border: 1px solid var(--black04);
+  color: var(--dark-blue100);
   font-weight: 700;
-  background-color: var(--light-gray);
+  background-color: var(--black04);
 }
 
 table tr {
-  background-color: var(--light-gray);
+  background-color: var(--black04);
   transition: all .3s ease;
   &:nth-child(even) {
     background-color: transparent;
@@ -191,7 +204,7 @@ table tr {
 table td {
   padding: 10px;
   font-size: 14px;
-  border: 1px solid var(--light-blue);
+  border: 1px solid var(--light-blue100);
 }
 
 .button {
@@ -205,15 +218,15 @@ table td {
   outline: none;
   cursor: pointer;
   transition: all .25s;
-  color: var(--dark-blue);
-  background: var(--light-blue);
+  color: var(--dark-blue100);
+  background: var(--light-blue100);
 
   &--primary {
     color: var(--white);
-    background-color: var(--brand-color);
+    background-color: var(--blue100);
 
     &:hover {
-      background: var(--brand-color-secondary);
+      background: var(--sky-blue100);
     }
   }
 

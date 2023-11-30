@@ -23,7 +23,7 @@
   min-height: 280px;
   border-radius: 8px;
   overflow: hidden;
-  background: var(--light-blue);
+  background: var(--light-blue100);
 
   img {
     position: absolute;
@@ -64,7 +64,7 @@
   border-radius: 8px;
   overflow: hidden;
   transform: translate(0);
-  background-color: var(--light-blue);
+  background-color: var(--light-blue100);
 
   .post-video__wrap,
   .page-video__wrap {
@@ -124,9 +124,9 @@
     text-transform: capitalize;
     border: none;
     border-radius: 8px;
-    color: var(--dark-blue);
+    color: var(--dark-blue100);
     transition: none;
-    background-color: var(--light-blue);
+    background-color: var(--light-blue100);
 
     &:last-child {
       margin-right: 0;
@@ -173,7 +173,7 @@
     border-radius: 50%;
     overflow: hidden;
     margin-right: 12px;
-    background-color: var(--light-blue);
+    background-color: var(--light-blue100);
 
     img {
       position: absolute;
@@ -198,18 +198,18 @@
     font-weight: 500;
     text-decoration: underline;
     text-decoration-color: transparent;
-    color: var(--dark-blue);
+    color: var(--dark-blue100);
     transition: text-decoration-color .35s;
 
     &:hover {
-      text-decoration-color: var(--dark-blue);
+      text-decoration-color: var(--dark-blue100);
     }
   }
 
   .post__date {
     font-size: 14px;
     font-weight: 400;
-    color: var(--text-alt-color);
+    color: var(--black60);
   }
 }
 
@@ -217,15 +217,15 @@
 .page {
   max-width: 760px;
   margin: 0 auto 60px;
-  color: var(--text-color);
+  color: var(--black87);
 
   a {
     font-weight: 500;
-    border-bottom: 1px solid var(--light-blue);
+    border-bottom: 1px solid var(--light-blue100);
 
     &:hover {
-      color: var(--dark-blue);
-      border-bottom-color: var(--dark-blue);
+      color: var(--dark-blue100);
+      border-bottom-color: var(--dark-blue100);
     }
   }
 
@@ -284,7 +284,7 @@
     text-transform: uppercase;
     border: none;
     border-radius: 8px;
-    background: var(--light-blue);
+    background: var(--light-blue100);
 
     i {
       transition: transform .25s;
@@ -292,7 +292,7 @@
     }
 
     &:hover {
-      color: var(--dark-blue);
+      color: var(--dark-blue100);
 
       i {
         transform: scale(1.1);
@@ -335,7 +335,7 @@
     text-decoration-color: transparent;
 
     &:hover {
-      text-decoration-color: var(--dark-blue);
+      text-decoration-color: var(--dark-blue100);
     }
   }
 
@@ -393,7 +393,7 @@
   button {
     width: 100%;
     float: right;
-    background-color: var(--brand-color);
+    background-color: var(--blue100);
     color: var(--white);
     border-radius: 8px;
     border: none;
@@ -415,7 +415,7 @@
 
   .error__text {
     margin-bottom: 0;
-    color: var(--text-alt-color);
+    color: var(--black60);
   }
 
   @media only screen and (max-width: $mobile) {
