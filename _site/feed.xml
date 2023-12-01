@@ -5,8 +5,8 @@
         <description>Menca personal blogging theme for Jekyll</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 Dec 2023 16:10:05 +0900</pubDate>
-        <lastBuildDate>Fri, 01 Dec 2023 16:10:05 +0900</lastBuildDate>
+        <pubDate>Fri, 01 Dec 2023 16:56:48 +0900</pubDate>
+        <lastBuildDate>Fri, 01 Dec 2023 16:56:48 +0900</lastBuildDate>
         <generator>Jekyll v3.9.1</generator>
         
             <item>
@@ -14,12 +14,12 @@
                 <description>**카이트 프리미엄이란?**
 
 
-&lt;h1 style=&quot;font-family: kudryashev-d-contrast; font-weight: 400; font-style: normal;&quot;&gt;test&lt;/h1&gt;
+&lt;h1 style=&quot;font-family: kudryashev-d-contrast; font-weight: 400; font-style: normal;&quot;&gt;test hello&lt;/h1&gt;
 “단 하루여도 특별하게 머물 수 있도록”
 
 객실 업그레이드∙웰컴 이벤트∙얼리 체크인∙레이트 체크아웃∙조식 등
 최상의 프리미엄 혜택을 제공합니다
-test helloworld
+test
 
 ---
 
