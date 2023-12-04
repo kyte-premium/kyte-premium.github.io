@@ -1,7 +1,6 @@
 *, *::after, *::before {
   box-sizing: border-box;
 }
-@import url("https://use.typekit.net/mxt6pjb.css");
 
 body {
   font-family: $base-font-family;
@@ -12,6 +11,7 @@ body {
   background-color: var(--white);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
   @media only screen and (max-width: $mobile) {
     font-size: 18px;
   }

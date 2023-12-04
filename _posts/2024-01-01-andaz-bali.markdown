@@ -10,13 +10,10 @@ tags: [리조트, 발리]
 
 **카이트 프리미엄이란?**
 
-
-<h1 style="font-family: kudryashev-d-contrast; font-weight: 400; font-style: normal;">test</h1>
 “단 하루여도 특별하게 머물 수 있도록”
 
 객실 업그레이드∙웰컴 이벤트∙얼리 체크인∙레이트 체크아웃∙조식 등
 최상의 프리미엄 혜택을 제공합니다
-test
 
 ---
 
